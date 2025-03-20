@@ -1,0 +1,17 @@
+rich==13.3.5
+PyQt6==6.5.0
+PySide6==6.8.1.1
+wxPython==4.2.1
+DearPyGui==2.0.0
+PyGObject==3.42.2
+PyForms==4.0
+PySimpleGUI==5.0.8.2
+Flexx==0.8.0
+Remi==2021.10
+PyQtGraph==0.12.4
+PyWebView==3.6.0
+Toga==0.3.0
+PySide5==5.15.2
+PyQt5==5.15.9
+Kivy==2.3.1
+KivyMD==1.1.0
